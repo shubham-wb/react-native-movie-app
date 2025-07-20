@@ -6,6 +6,7 @@ export default function App() {
       <Text className="text-5xl  text-dark-200 font-bold">
         Welcome
       </Text>
+
     </View>
   );
 }
